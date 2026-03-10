@@ -14,3 +14,4 @@ requests
 pandas
 pypdf
 sentence-transformers
+streamlit
