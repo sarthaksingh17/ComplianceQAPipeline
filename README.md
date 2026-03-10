@@ -90,6 +90,15 @@ This system is fully modular and ready for Azure deployment, including:
 
 * Azure Functions / App Service hosting
 
+
+
+###Deployed on StreamLit
+<img width="1913" height="767" alt="image" src="https://github.com/user-attachments/assets/330edf6c-4977-4ee5-9897-3f1da8bae703" />
+<img width="1427" height="761" alt="image" src="https://github.com/user-attachments/assets/6ddc972a-881e-4fba-a7ea-450c30e993b1" />
+
+
+
 ###  Author
 
 Built as a complete local-first AI compliance orchestration system combining RAG, speech processing, and structured LLM reasoning.
+
